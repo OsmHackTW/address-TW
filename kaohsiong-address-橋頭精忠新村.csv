@@ -1,4 +1,4 @@
-source,addr:TW:dataset,addr:country,addr:city,addr:district,addr:hamlet,addr:neighbourhood,addr:place,addr:housename,,addr:housenumber,addr:floor,addr:full,x,y
+source,addr:TW:dataset,addr:country,addr:city,addr:district,addr:hamlet,addr:neighbourhood,addr:place,addr:housename,addr:housenumber,addr:floor,addr:full,x,y
 高雄市政府,160248,TW,高雄市,橋頭區,白樹里,21,精忠新村,一棟,1號,2,高雄市橋頭區白樹里21鄰精忠新村一棟二樓1號,178062.390,2517630.150
 高雄市政府,160248,TW,高雄市,橋頭區,白樹里,21,精忠新村,一棟,1號,1,高雄市橋頭區白樹里21鄰精忠新村一棟一樓1號,178062.390,2517630.150
 高雄市政府,160248,TW,高雄市,橋頭區,白樹里,21,精忠新村,二棟,1號,3,高雄市橋頭區白樹里21鄰精忠新村二棟三樓1號,178048.420,2517641.960
