@@ -1,4 +1,4 @@
-addr:TW:dataset,source,addr:country,addr:province,addr:city,addr:district,addr:village,addr:neighborhood,addr:street,addr:housenumber,addr:full,description,x,y
+addr:TW:dataset,source,addr:country,addr:province,addr:city,addr:district,addr:hamlet,addr:neighborhood,addr:street,addr:housenumber,addr:full,description,x,y
 166201,雲林縣政府,TW,台灣省,雲林縣,斗六市,三光里,10,板橋路,78之3,雲林縣斗六市三光里10鄰板橋路78之3號,農業資材室,201378.886,2617085.896
 166201,雲林縣政府,TW,台灣省,雲林縣,斗六市,三光里,1,頂柴路,2之72,雲林縣斗六市三光里1鄰頂柴路2之72號,農業資材室,202805.72,2617867.59
 166201,雲林縣政府,TW,台灣省,雲林縣,斗六市,三光里,2,頂柴路,3之66,雲林縣斗六市三光里2鄰頂柴路3之66號,農業資材室,202891.3,2617399.25
