@@ -1,4 +1,4 @@
-addr:TW:dataset,source,addr:country,addr:province,addr:city,addr:district,addr:village,addr:neighborhood,addr:place,addr:housenumber,addr:full,description,x,y
+addr:TW:dataset,source,addr:country,addr:province,addr:city,addr:district,addr:hamlet,addr:neighborhood,addr:place,addr:housenumber,addr:full,description,x,y
 166201,雲林縣政府,TW,台灣省,雲林縣,斗六市,江厝里,12,部子,86,雲林縣斗六市江厝里12鄰部子86號,農業溫室,201049.429,2618568.363
 166201,雲林縣政府,TW,台灣省,雲林縣,斗六市,重光里,15,竹頭,9,雲林縣斗六市重光里15鄰竹頭9號,農業資材室,206359.71,2621958.29
 166201,雲林縣政府,TW,台灣省,雲林縣,斗南鎮,僑真里,1,二重溝,25之26,雲林縣斗南鎮僑真里1鄰二重溝25之26號,捲揚式溫室,195804.253,2618462.328
