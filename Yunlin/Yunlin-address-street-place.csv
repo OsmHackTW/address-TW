@@ -1,4 +1,4 @@
-addr:TW:dataset,source,addr:country,addr:province,addr:city,addr:district,addr:village,addr:neighborhood,addr:street,addr:place,addr:housenumber,addr:full,x,y
+addr:TW:dataset,source,addr:country,addr:province,addr:city,addr:district,addr:hamlet,addr:neighborhood,addr:street,addr:place,addr:housenumber,addr:full,x,y
 166201,雲林縣政府,TW,台灣省,雲林縣,褒忠鄉,中民村,8,中正路,褒忠市場,3,雲林縣褒忠鄉中民村8鄰中正路褒忠市場3號,179810.9,2621326.56
 166201,雲林縣政府,TW,台灣省,雲林縣,褒忠鄉,中民村,8,中正路,褒忠市場,5,雲林縣褒忠鄉中民村8鄰中正路褒忠市場5號,179815.13,2621327.62
 166201,雲林縣政府,TW,台灣省,雲林縣,褒忠鄉,中民村,8,中正路,褒忠市場,7,雲林縣褒忠鄉中民村8鄰中正路褒忠市場7號,179818.83,2621328.41
