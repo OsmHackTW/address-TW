@@ -1,4 +1,4 @@
-addr:country,addr:province,addr:city,addr:district,addr:hamlet,addr:neighbourhood,addr:street,addr:housenumber,x,y,addr:TW:dataset,source
+addr:country,addr:province,addr:city,addr:district,addr:hamlet,addr:neighbourhood,addr:street,addr:housenumber,addr:floor,addr:unit,addr:full,x,y,addr:TW:dataset,source
 TW,台灣省,彰化縣,竹塘鄉,竹元村,6,竹鹿路竹圍巷,60號,,,彰化縣竹塘鄉竹元村6鄰竹鹿路竹圍巷60號,190550.593,2639866.808,170727,彰化縣政府
 TW,台灣省,彰化縣,竹塘鄉,竹元村,6,竹鹿路竹圍巷,62號,,,彰化縣竹塘鄉竹元村6鄰竹鹿路竹圍巷62號,190569.859,2639862.438,170727,彰化縣政府
 TW,台灣省,彰化縣,竹塘鄉,竹元村,6,竹鹿路竹圍巷,64號,,,彰化縣竹塘鄉竹元村6鄰竹鹿路竹圍巷64號,190572.92,2639861.61,170727,彰化縣政府
