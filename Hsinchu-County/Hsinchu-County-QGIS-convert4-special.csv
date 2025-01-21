@@ -1,4 +1,4 @@
-addr:country,addr:province,addr:city,addr:district,addr:hamlet,addr:neighbourhood,addr:street,addr:housenumber,addr:floor,addr:unit,x,y,source,source:url
+addr:country,addr:province,addr:city,addr:district,addr:hamlet,addr:neighbourhood,addr:street,addr:housenumber,addr:floor,addr:unit,addr:full,x,y,source,source:url
 TW,台灣省,新竹縣,竹北市,文化里,15,三民路,165號,B1,4,新竹縣竹北市文化里15鄰三民路165號之4地下一層,251569.23,2747257.59,新竹縣政府,https://www.hsinchu.gov.tw/OpenDataDetail.aspx?n=902&s=2663
 TW,台灣省,新竹縣,竹北市,斗崙里,37,縣政二路南段,85號,,,新竹縣竹北市斗崙里37鄰縣政二路南段85號,251261.27,2745766.33,新竹縣政府,https://www.hsinchu.gov.tw/OpenDataDetail.aspx?n=902&s=2663
 TW,台灣省,新竹縣,竹北市,斗崙里,37,縣政二路南段,87號,,,新竹縣竹北市斗崙里37鄰縣政二路南段87號,251259.42,2745762.62,新竹縣政府,https://www.hsinchu.gov.tw/OpenDataDetail.aspx?n=902&s=2663
