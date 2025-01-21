@@ -1,4 +1,4 @@
-addr:country,addr:province,addr:city,addr:district,addr:hamlet,addr:neighbourhood,addr:street,addr:place,addr:housenumber,addr:floor,addr:unit,description,x,y,source,source:url
+addr:country,addr:province,addr:city,addr:district,addr:hamlet,addr:neighbourhood,addr:street,addr:place,addr:housenumber,addr:floor,addr:unit,addr:full,description,x,y,source,source:url
 TW,台灣省,新竹縣,竹北市,尚義里,8,尚義街,,500號,,,新竹縣竹北市尚義里8鄰尚義街500號,本門牌不得設戶籍,246481.92,2751471.4,新竹縣政府,https://www.hsinchu.gov.tw/OpenDataDetail.aspx?n=902&s=2663
 TW,台灣省,新竹縣,竹北市,新國里,15,環北路五段,,236號,,,新竹縣竹北市新國里15鄰環北路五段236號,本門牌不可設戶籍,249505.04,2747921.39,新竹縣政府,https://www.hsinchu.gov.tw/OpenDataDetail.aspx?n=902&s=2663
 TW,台灣省,新竹縣,竹北市,新港里,1,西濱路一段200巷,,41號,,,新竹縣竹北市新港里1鄰西濱路一段200巷41號,本門牌不能設戶籍,244685.18,2749682.29,新竹縣政府,https://www.hsinchu.gov.tw/OpenDataDetail.aspx?n=902&s=2663
