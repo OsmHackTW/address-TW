@@ -1,5 +1,5 @@
 # address-TW
-Open data set of government released address nodes
+Open data set of government-released address nodes
 
 ## Coordinate system
 
